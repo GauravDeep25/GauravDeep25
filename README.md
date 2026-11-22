@@ -7,7 +7,7 @@ Computer Science undergraduate specializing in Cybersecurity.
 Computer Science undergraduate specializing in Cybersecurity with hands-on experience in Python, JavaScript, React, and Linux through academic and personal projects. Interested in software development and cybersecurity, with experience building CLI tools, web applications, and security-focused projects while actively leading technical communities.
 
 *   🌍  I'm based in Sikkim, India
-*   🖥️  See my portfolio at [gauravdeep.me](http://gauravdeep.me)
+*   🖥️  See my portfolio at [Portfolio](http://gdeep.in/)
 *   ✉️  You can contact me at [work.gauravdeep@gmail.com](mailto:work.gauravdeep@gmail.com)
 *   🚀  I'm currently working on [Forensic-Extractor](http://github.com/GauravDeep25/Cloud-Native-Forensic-Extractor)
 *   🧠  I'm currently learning MERN Stack, AWS, Computer Networks, Operating Systems
